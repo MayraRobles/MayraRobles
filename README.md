@@ -1,6 +1,6 @@
 ## Hi there, I'm Mayra! 👋
 
-### I'm a University Student and aspiring Software Developer!
+### I'm a University Student and aspiring Software Engineer!
 
 - 🔭 I am a freshman at The University of Texas at El Paso<br />
 - 🌱 I’m currently learning Android Mobile App Development<br />
